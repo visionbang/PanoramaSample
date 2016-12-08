@@ -153,7 +153,7 @@ public class PanoramaActivity extends ActivityBase implements
     private Sensor mSensor;
     private PowerManager.WakeLock mPartialWakeLock;
 //    private ModePicker mModePicker;
-    private MosaicFrameProcessor mMosaicFrameProcessor;
+    private MosaicFrameProcessor mMosaicFrameProcessor=null;
     private long mTimeTaken;
     private Handler mMainHandler;
     private SurfaceTexture mSurfaceTexture;
@@ -983,7 +983,10 @@ public class PanoramaActivity extends ActivityBase implements
 
     private void clearMosaicFrameProcessorIfNeeded() {
         if (!mPausing || mThreadRunning) return;
-        mMosaicFrameProcessor.clear();
+        if(mMosaicFrameProcessor!=null){
+            mMosaicFrameProcessor.clear();
+        }
+
     }
 
     private void initMosaicFrameProcessorIfNeeded() {

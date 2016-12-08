@@ -1,81 +1,103 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml:2:1-39:12
+ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:2:1-42:12
 	package
-		ADDED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml:3:5-39
-		INJECTED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml
+		ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml:5:5-30
-		INJECTED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml
+		ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml
 	android:versionCode
-		ADDED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml:4:5-28
-		INJECTED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml
+		ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:2:11-69
 uses-sdk
-ADDED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml:7:5-9:41
+ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
-		ADDED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml:9:9-38
-		INJECTED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml
+		ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml:8:9-35
-		INJECTED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml
+		ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.CAMERA
-ADDED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml:10:2-62
+ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:10:5-65
 	android:name
-		ADDED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml:10:19-59
+		ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:10:22-62
+uses-permission#android.permission.INTERNET
+ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:14:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:15:22-73
 uses-permission#android.permission.WAKE_LOCK
-ADDED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml:11:2-65
+ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:16:5-68
 	android:name
-		ADDED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml:11:19-62
+		ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:16:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:17:22-77
+uses-permission#android.permission.READ_PROFILE
+ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:18:5-71
+	android:name
+		ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:18:22-68
 uses-feature#android.hardware.camera
-ADDED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml:12:2-57
+ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:19:5-60
 	android:name
-		ADDED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml:12:16-54
+		ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:19:19-57
 uses-feature#android.hardware.camera.autofocus
-ADDED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml:13:2-67
+ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:20:5-70
 	android:name
-		ADDED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml:13:16-64
+		ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:20:19-67
 application
-ADDED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml:14:5-37:19
+ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:22:5-40:19
 	android:label
-		ADDED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml:17:9-41
+		ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:25:9-41
 	android:allowBackup
-		ADDED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml:15:9-35
+		ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:23:9-35
 	android:icon
-		ADDED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml:16:9-45
+		ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:24:9-45
 	android:theme
-		ADDED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml:18:9-40
+		ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:26:9-40
 activity#com.example.customcamera.ProgressDemoActivity
-ADDED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml:19:9-22:20
+ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:27:9-29:68
 	android:label
-		ADDED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml:21:13-56
+		ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:29:13-56
 	android:name
-		ADDED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml:20:13-73
-activity#com.example.customcamera.MainActivity
-ADDED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml:23:9-26:20
-	android:label
-		ADDED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml:25:13-56
-	android:name
-		ADDED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml:24:13-65
+		ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:28:13-73
 activity#com.android.camera.panorama.PanoramaActivity
-ADDED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml:27:9-36:20
+ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:30:9-39:20
 	android:label
-		ADDED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml:29:13-65
+		ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:32:13-65
 	android:name
-		ADDED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml:28:13-72
+		ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:31:13-72
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml:30:25-34:29
+ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:33:13-37:29
 action#android.intent.action.MAIN
-ADDED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml:31:17-69
+ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:34:17-69
 	android:name
-		ADDED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml:31:25-66
+		ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:34:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml:33:17-77
+ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:36:17-77
 	android:name
-		ADDED from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\AndroidManifest.xml:33:27-74
+		ADDED from /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/AndroidManifest.xml:36:27-74

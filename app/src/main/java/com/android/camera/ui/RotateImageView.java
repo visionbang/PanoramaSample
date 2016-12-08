@@ -25,6 +25,7 @@ import android.graphics.drawable.Drawable;
 import android.graphics.drawable.TransitionDrawable;
 import android.media.ThumbnailUtils;
 import android.util.AttributeSet;
+import android.view.View;
 import android.view.ViewGroup.LayoutParams;
 import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
@@ -170,5 +171,9 @@ public class RotateImageView extends TwoStateImageView implements Rotatable {
             mThumbTransition.startTransition(500);
         }
         setVisibility(VISIBLE);
+    }
+
+    public void onThumbnailClicked(View view){
+
     }
 }

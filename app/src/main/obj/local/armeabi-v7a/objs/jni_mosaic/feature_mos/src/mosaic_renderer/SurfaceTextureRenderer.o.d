@@ -1,11 +1,11 @@
-D:/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/obj/local/armeabi-v7a/objs/jni_mosaic/feature_mos/src/mosaic_renderer/SurfaceTextureRenderer.o: \
-  D:/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/jni/feature_mos/src/mosaic_renderer/SurfaceTextureRenderer.cpp \
-  D:/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/jni/feature_mos/src/mosaic_renderer/SurfaceTextureRenderer.h \
-  D:/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/jni/feature_mos/src/mosaic_renderer/FrameBuffer.h \
-  D:/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/jni/feature_mos/src/mosaic_renderer/Renderer.h
+/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/obj/local/armeabi-v7a/objs/jni_mosaic/feature_mos/src/mosaic_renderer/SurfaceTextureRenderer.o: \
+ /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/jni/feature_mos/src/mosaic_renderer/SurfaceTextureRenderer.cpp \
+ /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/jni/feature_mos/src/mosaic_renderer/SurfaceTextureRenderer.h \
+ /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/jni/feature_mos/src/mosaic_renderer/FrameBuffer.h \
+ /home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/jni/feature_mos/src/mosaic_renderer/Renderer.h
 
-D:/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/jni/feature_mos/src/mosaic_renderer/SurfaceTextureRenderer.h:
+/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/jni/feature_mos/src/mosaic_renderer/SurfaceTextureRenderer.h:
 
-D:/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/jni/feature_mos/src/mosaic_renderer/FrameBuffer.h:
+/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/jni/feature_mos/src/mosaic_renderer/FrameBuffer.h:
 
-D:/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/jni/feature_mos/src/mosaic_renderer/Renderer.h:
+/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/jni/feature_mos/src/mosaic_renderer/Renderer.h:

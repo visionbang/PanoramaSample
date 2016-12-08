@@ -1,30 +1,30 @@
 [
     {
-        "merged": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\review_thumbnail.xml",
-        "source": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\layout\\review_thumbnail.xml"
+        "merged": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/build/intermediates/res/merged/debug/layout/progress_demo.xml",
+        "source": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/layout/progress_demo.xml"
     },
     {
-        "merged": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\panorama.xml",
-        "source": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\layout\\panorama.xml"
+        "merged": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/build/intermediates/res/merged/debug/layout/panorama.xml",
+        "source": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/layout/panorama.xml"
     },
     {
-        "merged": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_control.xml",
-        "source": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\layout\\camera_control.xml"
+        "merged": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/build/intermediates/res/merged/debug/layout/review_thumbnail.xml",
+        "source": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/layout/review_thumbnail.xml"
     },
     {
-        "merged": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pano_review.xml",
-        "source": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\layout\\pano_review.xml"
+        "merged": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/build/intermediates/res/merged/debug/layout/camera_control.xml",
+        "source": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/layout/camera_control.xml"
     },
     {
-        "merged": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pano_capture.xml",
-        "source": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\layout\\pano_capture.xml"
+        "merged": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/build/intermediates/res/merged/debug/layout/review_control.xml",
+        "source": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/layout/review_control.xml"
     },
     {
-        "merged": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\review_control.xml",
-        "source": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\layout\\review_control.xml"
+        "merged": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/build/intermediates/res/merged/debug/layout/pano_review.xml",
+        "source": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/layout/pano_review.xml"
     },
     {
-        "merged": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_demo.xml",
-        "source": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\layout\\progress_demo.xml"
+        "merged": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/build/intermediates/res/merged/debug/layout/pano_capture.xml",
+        "source": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/layout/pano_capture.xml"
     }
 ]

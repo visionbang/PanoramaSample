@@ -1,10 +1,10 @@
 [
     {
-        "merged": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\menu\\main.xml"
+        "merged": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/build/intermediates/res/merged/debug/menu/progress_demo.xml",
+        "source": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/menu/progress_demo.xml"
     },
     {
-        "merged": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\build\\intermediates\\res\\merged\\debug\\menu\\progress_demo.xml",
-        "source": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\menu\\progress_demo.xml"
+        "merged": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/menu/main.xml"
     }
 ]

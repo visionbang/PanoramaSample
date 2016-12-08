@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/build/intermediates/res/merged/debug/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 94
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
-                        "startOffset": 1200,
+                        "startOffset": 1173,
                         "endColumn": 43,
-                        "endOffset": 1239
+                        "endOffset": 1212
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 150
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
-                        "startOffset": 1091,
+                        "startOffset": 1066,
                         "endColumn": 55,
-                        "endOffset": 1142
+                        "endOffset": 1117
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 207
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
-                        "startOffset": 1422,
+                        "startOffset": 1391,
                         "endColumn": 56,
-                        "endOffset": 1474
+                        "endOffset": 1443
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 263
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,
-                        "startOffset": 1898,
+                        "startOffset": 1859,
                         "endColumn": 55,
-                        "endOffset": 1949
+                        "endOffset": 1910
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 336
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 881,
+                        "startOffset": 859,
                         "endColumn": 72,
-                        "endOffset": 949
+                        "endOffset": 927
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 402
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
-                        "startOffset": 1589,
+                        "startOffset": 1555,
                         "endColumn": 65,
-                        "endOffset": 1650
+                        "endOffset": 1616
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 457
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
-                        "startOffset": 1713,
+                        "startOffset": 1677,
                         "endColumn": 54,
-                        "endOffset": 1763
+                        "endOffset": 1727
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 513
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 4,
-                        "startOffset": 1656,
+                        "startOffset": 1621,
                         "endColumn": 55,
-                        "endOffset": 1707
+                        "endOffset": 1672
                     }
                 }
             },
@@ -163,13 +163,13 @@
                     "endOffset": 574
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
-                        "startOffset": 1769,
+                        "startOffset": 1732,
                         "endColumn": 60,
-                        "endOffset": 1825
+                        "endOffset": 1788
                     }
                 }
             },
@@ -182,13 +182,13 @@
                     "endOffset": 640
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
-                        "startOffset": 1831,
+                        "startOffset": 1793,
                         "endColumn": 65,
-                        "endOffset": 1892
+                        "endOffset": 1854
                     }
                 }
             },
@@ -201,13 +201,13 @@
                     "endOffset": 693
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
-                        "startOffset": 1535,
+                        "startOffset": 1502,
                         "endColumn": 52,
-                        "endOffset": 1583
+                        "endOffset": 1550
                     }
                 }
             },
@@ -220,13 +220,13 @@
                     "endOffset": 747
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
-                        "startOffset": 1480,
+                        "startOffset": 1448,
                         "endColumn": 53,
-                        "endOffset": 1529
+                        "endOffset": 1497
                     }
                 }
             },
@@ -239,13 +239,13 @@
                     "endOffset": 811
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 749,
+                        "startOffset": 729,
                         "endColumn": 63,
-                        "endOffset": 808
+                        "endOffset": 788
                     }
                 }
             },
@@ -258,13 +258,13 @@
                     "endOffset": 877
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 814,
+                        "startOffset": 793,
                         "endColumn": 65,
-                        "endOffset": 875
+                        "endOffset": 854
                     }
                 }
             },
@@ -277,13 +277,13 @@
                     "endOffset": 942
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
-                        "startOffset": 955,
+                        "startOffset": 932,
                         "endColumn": 64,
-                        "endOffset": 1015
+                        "endOffset": 992
                     }
                 }
             },
@@ -296,13 +296,13 @@
                     "endOffset": 1011
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
-                        "startOffset": 1021,
+                        "startOffset": 997,
                         "endColumn": 68,
-                        "endOffset": 1085
+                        "endOffset": 1061
                     }
                 }
             },
@@ -315,13 +315,13 @@
                     "endOffset": 1069
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
-                        "startOffset": 1363,
+                        "startOffset": 1333,
                         "endColumn": 57,
-                        "endOffset": 1416
+                        "endOffset": 1386
                     }
                 }
             },
@@ -334,13 +334,13 @@
                     "endOffset": 1128
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
-                        "startOffset": 1245,
+                        "startOffset": 1217,
                         "endColumn": 58,
-                        "endOffset": 1299
+                        "endOffset": 1271
                     }
                 }
             },
@@ -353,13 +353,13 @@
                     "endOffset": 1185
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
-                        "startOffset": 1305,
+                        "startOffset": 1276,
                         "endColumn": 56,
-                        "endOffset": 1357
+                        "endOffset": 1328
                     }
                 }
             },
@@ -372,13 +372,13 @@
                     "endOffset": 1236
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
-                        "startOffset": 1148,
+                        "startOffset": 1122,
                         "endColumn": 50,
-                        "endOffset": 1194
+                        "endOffset": 1168
                     }
                 }
             },
@@ -391,13 +391,13 @@
                     "endOffset": 1294
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 92,
+                        "startOffset": 89,
                         "endColumn": 57,
-                        "endOffset": 145
+                        "endOffset": 142
                     }
                 }
             },
@@ -410,13 +410,13 @@
                     "endOffset": 1350
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 151,
+                        "startOffset": 147,
                         "endColumn": 55,
-                        "endOffset": 202
+                        "endOffset": 198
                     }
                 }
             },
@@ -429,13 +429,13 @@
                     "endOffset": 1423
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 51,
                         "startColumn": 4,
-                        "startOffset": 2846,
+                        "startOffset": 2797,
                         "endColumn": 72,
-                        "endOffset": 2914
+                        "endOffset": 2865
                     }
                 }
             },
@@ -448,13 +448,13 @@
                     "endOffset": 1508
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 331,
                         "startColumn": 4,
-                        "startOffset": 19557,
+                        "startOffset": 19228,
                         "endColumn": 84,
-                        "endOffset": 19637
+                        "endOffset": 19308
                     }
                 }
             },
@@ -467,13 +467,13 @@
                     "endOffset": 1593
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 325,
                         "startColumn": 4,
-                        "startOffset": 18978,
+                        "startOffset": 18655,
                         "endColumn": 84,
-                        "endOffset": 19058
+                        "endOffset": 18735
                     }
                 }
             },
@@ -486,13 +486,13 @@
                     "endOffset": 1659
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 335,
                         "startColumn": 4,
-                        "startOffset": 19879,
+                        "startOffset": 19546,
                         "endColumn": 65,
-                        "endOffset": 19940
+                        "endOffset": 19607
                     }
                 }
             },
@@ -505,13 +505,13 @@
                     "endOffset": 1725
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 337,
                         "startColumn": 4,
-                        "startOffset": 20054,
+                        "startOffset": 19719,
                         "endColumn": 65,
-                        "endOffset": 20115
+                        "endOffset": 19780
                     }
                 }
             },
@@ -524,13 +524,13 @@
                     "endOffset": 1815
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 327,
                         "startColumn": 4,
-                        "startOffset": 19160,
+                        "startOffset": 18835,
                         "endColumn": 89,
-                        "endOffset": 19245
+                        "endOffset": 18920
                     }
                 }
             },
@@ -543,13 +543,13 @@
                     "endOffset": 1892
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 323,
                         "startColumn": 4,
-                        "startOffset": 18836,
+                        "startOffset": 18515,
                         "endColumn": 76,
-                        "endOffset": 18908
+                        "endOffset": 18587
                     }
                 }
             },
@@ -562,13 +562,13 @@
                     "endOffset": 1980
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 329,
                         "startColumn": 4,
-                        "startOffset": 19361,
+                        "startOffset": 19034,
                         "endColumn": 87,
-                        "endOffset": 19444
+                        "endOffset": 19117
                     }
                 }
             },
@@ -581,13 +581,13 @@
                     "endOffset": 2052
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 321,
                         "startColumn": 4,
-                        "startOffset": 18693,
+                        "startOffset": 18374,
                         "endColumn": 71,
-                        "endOffset": 18760
+                        "endOffset": 18441
                     }
                 }
             },
@@ -600,13 +600,13 @@
                     "endOffset": 2113
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 339,
                         "startColumn": 4,
-                        "startOffset": 20217,
+                        "startOffset": 19880,
                         "endColumn": 60,
-                        "endOffset": 20273
+                        "endOffset": 19936
                     }
                 }
             },
@@ -619,13 +619,13 @@
                     "endOffset": 2181
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 333,
                         "startColumn": 4,
-                        "startOffset": 19702,
+                        "startOffset": 19371,
                         "endColumn": 67,
-                        "endOffset": 19765
+                        "endOffset": 19434
                     }
                 }
             },
@@ -638,13 +638,13 @@
                     "endOffset": 2234
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 170,
+                        "startOffset": 168,
                         "endColumn": 52,
-                        "endOffset": 218
+                        "endOffset": 216
                     }
                 }
             },
@@ -653,16 +653,16 @@
                     "startLine": 36,
                     "startColumn": 4,
                     "startOffset": 2239,
-                    "endColumn": 49,
-                    "endOffset": 2284
+                    "endColumn": 51,
+                    "endOffset": 2286
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 57,
-                        "endColumn": 49,
+                        "startOffset": 55,
+                        "endColumn": 51,
                         "endOffset": 102
                     }
                 }
@@ -671,18 +671,18 @@
                 "to": {
                     "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 2289,
+                    "startOffset": 2291,
                     "endColumn": 102,
-                    "endOffset": 2387
+                    "endOffset": 2389
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 300,
                         "startColumn": 4,
-                        "startOffset": 17436,
+                        "startOffset": 17138,
                         "endColumn": 102,
-                        "endOffset": 17534
+                        "endOffset": 17236
                     }
                 }
             },
@@ -690,18 +690,18 @@
                 "to": {
                     "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 2392,
+                    "startOffset": 2394,
                     "endColumn": 98,
-                    "endOffset": 2486
+                    "endOffset": 2488
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 814,
+                        "startOffset": 798,
                         "endColumn": 98,
-                        "endOffset": 908
+                        "endOffset": 892
                     }
                 }
             },
@@ -709,18 +709,18 @@
                 "to": {
                     "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 2491,
+                    "startOffset": 2493,
                     "endColumn": 59,
-                    "endOffset": 2546
+                    "endOffset": 2548
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 473,
+                        "startOffset": 463,
                         "endColumn": 59,
-                        "endOffset": 528
+                        "endOffset": 518
                     }
                 }
             },
@@ -728,18 +728,18 @@
                 "to": {
                     "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 2551,
+                    "startOffset": 2553,
                     "endColumn": 62,
-                    "endOffset": 2609
+                    "endOffset": 2611
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 72,
                         "startColumn": 4,
-                        "startOffset": 4068,
+                        "startOffset": 3998,
                         "endColumn": 62,
-                        "endOffset": 4126
+                        "endOffset": 4056
                     }
                 }
             },
@@ -747,18 +747,18 @@
                 "to": {
                     "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 2614,
+                    "startOffset": 2616,
                     "endColumn": 47,
-                    "endOffset": 2657
+                    "endOffset": 2659
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 1014,
+                        "startOffset": 995,
                         "endColumn": 47,
-                        "endOffset": 1057
+                        "endOffset": 1038
                     }
                 }
             },
@@ -766,18 +766,18 @@
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 2662,
+                    "startOffset": 2664,
                     "endColumn": 79,
-                    "endOffset": 2737
+                    "endOffset": 2739
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 610,
+                        "startOffset": 597,
                         "endColumn": 79,
-                        "endOffset": 685
+                        "endOffset": 672
                     }
                 }
             },
@@ -785,18 +785,18 @@
                 "to": {
                     "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 2742,
+                    "startOffset": 2744,
                     "endColumn": 55,
-                    "endOffset": 2793
+                    "endOffset": 2795
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 312,
                         "startColumn": 4,
-                        "startOffset": 18302,
+                        "startOffset": 17992,
                         "endColumn": 55,
-                        "endOffset": 18353
+                        "endOffset": 18043
                     }
                 }
             },
@@ -804,18 +804,18 @@
                 "to": {
                     "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 2798,
+                    "startOffset": 2800,
                     "endColumn": 84,
-                    "endOffset": 2878
+                    "endOffset": 2880
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 57,
                         "startColumn": 4,
-                        "startOffset": 3227,
+                        "startOffset": 3172,
                         "endColumn": 84,
-                        "endOffset": 3307
+                        "endOffset": 3252
                     }
                 }
             },
@@ -823,18 +823,18 @@
                 "to": {
                     "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 2883,
+                    "startOffset": 2885,
                     "endColumn": 66,
-                    "endOffset": 2945
+                    "endOffset": 2947
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
-                        "startOffset": 3159,
+                        "startOffset": 3105,
                         "endColumn": 66,
-                        "endOffset": 3221
+                        "endOffset": 3167
                     }
                 }
             },
@@ -842,18 +842,18 @@
                 "to": {
                     "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 2950,
+                    "startOffset": 2952,
                     "endColumn": 40,
-                    "endOffset": 2986
+                    "endOffset": 2988
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 208,
                         "startColumn": 4,
-                        "startOffset": 11951,
+                        "startOffset": 11745,
                         "endColumn": 40,
-                        "endOffset": 11987
+                        "endOffset": 11781
                     }
                 }
             },
@@ -861,18 +861,18 @@
                 "to": {
                     "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 2991,
+                    "startOffset": 2993,
                     "endColumn": 111,
-                    "endOffset": 3098
+                    "endOffset": 3100
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 309,
                         "startColumn": 4,
-                        "startOffset": 18103,
+                        "startOffset": 17796,
                         "endColumn": 111,
-                        "endOffset": 18210
+                        "endOffset": 17903
                     }
                 }
             },
@@ -880,18 +880,18 @@
                 "to": {
                     "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 3103,
+                    "startOffset": 3105,
                     "endColumn": 70,
-                    "endOffset": 3169
+                    "endOffset": 3171
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 297,
                         "startColumn": 4,
-                        "startOffset": 17264,
+                        "startOffset": 16969,
                         "endColumn": 70,
-                        "endOffset": 17330
+                        "endOffset": 17035
                     }
                 }
             },
@@ -899,18 +899,18 @@
                 "to": {
                     "startLine": 49,
                     "startColumn": 4,
-                    "startOffset": 3174,
+                    "startOffset": 3176,
                     "endColumn": 61,
-                    "endOffset": 3231
+                    "endOffset": 3233
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 293,
                         "startColumn": 4,
-                        "startOffset": 16949,
+                        "startOffset": 16658,
                         "endColumn": 61,
-                        "endOffset": 17006
+                        "endOffset": 16715
                     }
                 }
             },
@@ -918,18 +918,18 @@
                 "to": {
                     "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 3236,
+                    "startOffset": 3238,
                     "endColumn": 60,
-                    "endOffset": 3292
+                    "endOffset": 3294
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 295,
                         "startColumn": 4,
-                        "startOffset": 17102,
+                        "startOffset": 16809,
                         "endColumn": 60,
-                        "endOffset": 17158
+                        "endOffset": 16865
                     }
                 }
             },
@@ -937,18 +937,18 @@
                 "to": {
                     "startLine": 51,
                     "startColumn": 4,
-                    "startOffset": 3297,
+                    "startOffset": 3299,
                     "endColumn": 56,
-                    "endOffset": 3349
+                    "endOffset": 3351
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 318,
                         "startColumn": 4,
-                        "startOffset": 18579,
+                        "startOffset": 18263,
                         "endColumn": 56,
-                        "endOffset": 18631
+                        "endOffset": 18315
                     }
                 }
             },
@@ -956,18 +956,18 @@
                 "to": {
                     "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 3354,
+                    "startOffset": 3356,
                     "endColumn": 63,
-                    "endOffset": 3413
+                    "endOffset": 3415
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 283,
                         "startColumn": 4,
-                        "startOffset": 16224,
+                        "startOffset": 15943,
                         "endColumn": 63,
-                        "endOffset": 16283
+                        "endOffset": 16002
                     }
                 }
             },
@@ -975,18 +975,18 @@
                 "to": {
                     "startLine": 53,
                     "startColumn": 4,
-                    "startOffset": 3418,
+                    "startOffset": 3420,
                     "endColumn": 65,
-                    "endOffset": 3479
+                    "endOffset": 3481
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 285,
                         "startColumn": 4,
-                        "startOffset": 16361,
+                        "startOffset": 16078,
                         "endColumn": 65,
-                        "endOffset": 16422
+                        "endOffset": 16139
                     }
                 }
             },
@@ -994,18 +994,18 @@
                 "to": {
                     "startLine": 54,
                     "startColumn": 4,
-                    "startOffset": 3484,
+                    "startOffset": 3486,
                     "endColumn": 63,
-                    "endOffset": 3543
+                    "endOffset": 3545
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 289,
                         "startColumn": 4,
-                        "startOffset": 16644,
+                        "startOffset": 16357,
                         "endColumn": 63,
-                        "endOffset": 16703
+                        "endOffset": 16416
                     }
                 }
             },
@@ -1013,18 +1013,18 @@
                 "to": {
                     "startLine": 55,
                     "startColumn": 4,
-                    "startOffset": 3548,
+                    "startOffset": 3550,
                     "endColumn": 67,
-                    "endOffset": 3611
+                    "endOffset": 3613
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 291,
                         "startColumn": 4,
-                        "startOffset": 16782,
+                        "startOffset": 16493,
                         "endColumn": 67,
-                        "endOffset": 16845
+                        "endOffset": 16556
                     }
                 }
             },
@@ -1032,18 +1032,18 @@
                 "to": {
                     "startLine": 56,
                     "startColumn": 4,
-                    "startOffset": 3616,
+                    "startOffset": 3618,
                     "endColumn": 69,
-                    "endOffset": 3681
+                    "endOffset": 3683
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 287,
                         "startColumn": 4,
-                        "startOffset": 16502,
+                        "startOffset": 16217,
                         "endColumn": 69,
-                        "endOffset": 16567
+                        "endOffset": 16282
                     }
                 }
             },
@@ -1051,18 +1051,18 @@
                 "to": {
                     "startLine": 57,
                     "startColumn": 4,
-                    "startOffset": 3686,
+                    "startOffset": 3688,
                     "endColumn": 61,
-                    "endOffset": 3743
+                    "endOffset": 3745
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 281,
                         "startColumn": 4,
-                        "startOffset": 16090,
+                        "startOffset": 15811,
                         "endColumn": 61,
-                        "endOffset": 16147
+                        "endOffset": 15868
                     }
                 }
             },
@@ -1070,18 +1070,18 @@
                 "to": {
                     "startLine": 58,
                     "startColumn": 4,
-                    "startOffset": 3748,
+                    "startOffset": 3750,
                     "endColumn": 44,
-                    "endOffset": 3788
+                    "endOffset": 3790
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 279,
                         "startColumn": 4,
-                        "startOffset": 15970,
+                        "startOffset": 15693,
                         "endColumn": 44,
-                        "endOffset": 16010
+                        "endOffset": 15733
                     }
                 }
             },
@@ -1089,18 +1089,18 @@
                 "to": {
                     "startLine": 59,
                     "startColumn": 4,
-                    "startOffset": 3793,
+                    "startOffset": 3795,
                     "endColumn": 58,
-                    "endOffset": 3847
+                    "endOffset": 3849
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 315,
                         "startColumn": 4,
-                        "startOffset": 18433,
+                        "startOffset": 18120,
                         "endColumn": 58,
-                        "endOffset": 18487
+                        "endOffset": 18174
                     }
                 }
             },
@@ -1108,18 +1108,18 @@
                 "to": {
                     "startLine": 60,
                     "startColumn": 4,
-                    "startOffset": 3852,
+                    "startOffset": 3854,
                     "endColumn": 58,
-                    "endOffset": 3906
+                    "endOffset": 3908
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 342,
                         "startColumn": 4,
-                        "startOffset": 20400,
+                        "startOffset": 20060,
                         "endColumn": 58,
-                        "endOffset": 20454
+                        "endOffset": 20114
                     }
                 }
             },
@@ -1127,18 +1127,18 @@
                 "to": {
                     "startLine": 61,
                     "startColumn": 4,
-                    "startOffset": 3911,
+                    "startOffset": 3913,
                     "endColumn": 70,
-                    "endOffset": 3977
+                    "endOffset": 3979
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
-                        "startOffset": 1304,
+                        "startOffset": 1279,
                         "endColumn": 70,
-                        "endOffset": 1370
+                        "endOffset": 1345
                     }
                 }
             },
@@ -1146,18 +1146,18 @@
                 "to": {
                     "startLine": 62,
                     "startColumn": 4,
-                    "startOffset": 3982,
+                    "startOffset": 3984,
                     "endColumn": 75,
-                    "endOffset": 4053
+                    "endOffset": 4055
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
-                        "startOffset": 1456,
+                        "startOffset": 1428,
                         "endColumn": 75,
-                        "endOffset": 1527
+                        "endOffset": 1499
                     }
                 }
             },
@@ -1165,18 +1165,18 @@
                 "to": {
                     "startLine": 63,
                     "startColumn": 4,
-                    "startOffset": 4058,
+                    "startOffset": 4060,
                     "endColumn": 52,
-                    "endOffset": 4106
+                    "endOffset": 4108
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 224,
+                        "startOffset": 221,
                         "endColumn": 52,
-                        "endOffset": 272
+                        "endOffset": 269
                     }
                 }
             },
@@ -1184,18 +1184,18 @@
                 "to": {
                     "startLine": 64,
                     "startColumn": 4,
-                    "startOffset": 4111,
+                    "startOffset": 4113,
                     "endColumn": 95,
-                    "endOffset": 4202
+                    "endOffset": 4204
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 216,
                         "startColumn": 4,
-                        "startOffset": 12537,
+                        "startOffset": 12323,
                         "endColumn": 95,
-                        "endOffset": 12628
+                        "endOffset": 12414
                     }
                 }
             },
@@ -1203,18 +1203,18 @@
                 "to": {
                     "startLine": 65,
                     "startColumn": 4,
-                    "startOffset": 4207,
+                    "startOffset": 4209,
                     "endColumn": 68,
-                    "endOffset": 4271
+                    "endOffset": 4273
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 246,
                         "startColumn": 4,
-                        "startOffset": 14188,
+                        "startOffset": 13944,
                         "endColumn": 68,
-                        "endOffset": 14252
+                        "endOffset": 14008
                     }
                 }
             },
@@ -1222,18 +1222,18 @@
                 "to": {
                     "startLine": 66,
                     "startColumn": 4,
-                    "startOffset": 4276,
+                    "startOffset": 4278,
                     "endColumn": 81,
-                    "endOffset": 4353
+                    "endOffset": 4355
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
-                        "startOffset": 1769,
+                        "startOffset": 1735,
                         "endColumn": 81,
-                        "endOffset": 1846
+                        "endOffset": 1812
                     }
                 }
             },
@@ -1241,18 +1241,18 @@
                 "to": {
                     "startLine": 67,
                     "startColumn": 4,
-                    "startOffset": 4358,
+                    "startOffset": 4360,
                     "endColumn": 64,
-                    "endOffset": 4418
+                    "endOffset": 4420
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 249,
                         "startColumn": 4,
-                        "startOffset": 14336,
+                        "startOffset": 14089,
                         "endColumn": 64,
-                        "endOffset": 14396
+                        "endOffset": 14149
                     }
                 }
             },
@@ -1260,18 +1260,18 @@
                 "to": {
                     "startLine": 68,
                     "startColumn": 4,
-                    "startOffset": 4423,
+                    "startOffset": 4425,
                     "endColumn": 70,
-                    "endOffset": 4489
+                    "endOffset": 4491
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 41,
                         "startColumn": 4,
-                        "startOffset": 2161,
+                        "startOffset": 2122,
                         "endColumn": 70,
-                        "endOffset": 2227
+                        "endOffset": 2188
                     }
                 }
             },
@@ -1279,18 +1279,18 @@
                 "to": {
                     "startLine": 69,
                     "startColumn": 4,
-                    "startOffset": 4494,
+                    "startOffset": 4496,
                     "endColumn": 90,
-                    "endOffset": 4580
+                    "endOffset": 4582
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 303,
                         "startColumn": 4,
-                        "startOffset": 17651,
+                        "startOffset": 17350,
                         "endColumn": 90,
-                        "endOffset": 17737
+                        "endOffset": 17436
                     }
                 }
             },
@@ -1298,18 +1298,18 @@
                 "to": {
                     "startLine": 70,
                     "startColumn": 4,
-                    "startOffset": 4585,
+                    "startOffset": 4587,
                     "endColumn": 86,
-                    "endOffset": 4667
+                    "endOffset": 4669
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 197,
                         "startColumn": 4,
-                        "startOffset": 11447,
+                        "startOffset": 11252,
                         "endColumn": 86,
-                        "endOffset": 11529
+                        "endOffset": 11334
                     }
                 }
             },
@@ -1317,18 +1317,18 @@
                 "to": {
                     "startLine": 71,
                     "startColumn": 4,
-                    "startOffset": 4672,
+                    "startOffset": 4674,
                     "endColumn": 70,
-                    "endOffset": 4738
+                    "endOffset": 4740
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 264,
                         "startColumn": 4,
-                        "startOffset": 15195,
+                        "startOffset": 14933,
                         "endColumn": 70,
-                        "endOffset": 15261
+                        "endOffset": 14999
                     }
                 }
             },
@@ -1336,18 +1336,18 @@
                 "to": {
                     "startLine": 72,
                     "startColumn": 4,
-                    "startOffset": 4743,
+                    "startOffset": 4745,
                     "endColumn": 80,
-                    "endOffset": 4819
+                    "endOffset": 4821
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 258,
                         "startColumn": 4,
-                        "startOffset": 14840,
+                        "startOffset": 14584,
                         "endColumn": 80,
-                        "endOffset": 14916
+                        "endOffset": 14660
                     }
                 }
             },
@@ -1355,18 +1355,18 @@
                 "to": {
                     "startLine": 73,
                     "startColumn": 4,
-                    "startOffset": 4824,
+                    "startOffset": 4826,
                     "endColumn": 74,
-                    "endOffset": 4894
+                    "endOffset": 4896
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 255,
                         "startColumn": 4,
-                        "startOffset": 14675,
+                        "startOffset": 14422,
                         "endColumn": 74,
-                        "endOffset": 14745
+                        "endOffset": 14492
                     }
                 }
             },
@@ -1374,18 +1374,18 @@
                 "to": {
                     "startLine": 74,
                     "startColumn": 4,
-                    "startOffset": 4899,
+                    "startOffset": 4901,
                     "endColumn": 54,
-                    "endOffset": 4949
+                    "endOffset": 4951
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 261,
                         "startColumn": 4,
-                        "startOffset": 15017,
+                        "startOffset": 14758,
                         "endColumn": 54,
-                        "endOffset": 15067
+                        "endOffset": 14808
                     }
                 }
             },
@@ -1393,18 +1393,18 @@
                 "to": {
                     "startLine": 75,
                     "startColumn": 4,
-                    "startOffset": 4954,
+                    "startOffset": 4956,
                     "endColumn": 95,
-                    "endOffset": 5045
+                    "endOffset": 5047
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 222,
                         "startColumn": 4,
-                        "startOffset": 12886,
+                        "startOffset": 12666,
                         "endColumn": 95,
-                        "endOffset": 12977
+                        "endOffset": 12757
                     }
                 }
             },
@@ -1412,18 +1412,18 @@
                 "to": {
                     "startLine": 76,
                     "startColumn": 4,
-                    "startOffset": 5050,
+                    "startOffset": 5052,
                     "endColumn": 74,
-                    "endOffset": 5120
+                    "endOffset": 5122
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 267,
                         "startColumn": 4,
-                        "startOffset": 15396,
+                        "startOffset": 15131,
                         "endColumn": 74,
-                        "endOffset": 15466
+                        "endOffset": 15201
                     }
                 }
             },
@@ -1431,18 +1431,18 @@
                 "to": {
                     "startLine": 77,
                     "startColumn": 4,
-                    "startOffset": 5125,
+                    "startOffset": 5127,
                     "endColumn": 57,
-                    "endOffset": 5178
+                    "endOffset": 5180
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 252,
                         "startColumn": 4,
-                        "startOffset": 14492,
+                        "startOffset": 14242,
                         "endColumn": 57,
-                        "endOffset": 14545
+                        "endOffset": 14295
                     }
                 }
             },
@@ -1450,18 +1450,18 @@
                 "to": {
                     "startLine": 78,
                     "startColumn": 4,
-                    "startOffset": 5183,
+                    "startOffset": 5185,
                     "endColumn": 79,
-                    "endOffset": 5258
+                    "endOffset": 5260
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 127,
                         "startColumn": 4,
-                        "startOffset": 7621,
+                        "startOffset": 7496,
                         "endColumn": 79,
-                        "endOffset": 7696
+                        "endOffset": 7571
                     }
                 }
             },
@@ -1469,18 +1469,18 @@
                 "to": {
                     "startLine": 79,
                     "startColumn": 4,
-                    "startOffset": 5263,
+                    "startOffset": 5265,
                     "endColumn": 83,
-                    "endOffset": 5342
+                    "endOffset": 5344
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 150,
                         "startColumn": 4,
-                        "startOffset": 8882,
+                        "startOffset": 8734,
                         "endColumn": 83,
-                        "endOffset": 8961
+                        "endOffset": 8813
                     }
                 }
             },
@@ -1488,18 +1488,18 @@
                 "to": {
                     "startLine": 80,
                     "startColumn": 4,
-                    "startOffset": 5347,
+                    "startOffset": 5349,
                     "endColumn": 65,
-                    "endOffset": 5408
+                    "endOffset": 5410
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 159,
                         "startColumn": 4,
-                        "startOffset": 9290,
+                        "startOffset": 9133,
                         "endColumn": 65,
-                        "endOffset": 9351
+                        "endOffset": 9194
                     }
                 }
             },
@@ -1507,18 +1507,18 @@
                 "to": {
                     "startLine": 81,
                     "startColumn": 4,
-                    "startOffset": 5413,
+                    "startOffset": 5415,
                     "endColumn": 63,
-                    "endOffset": 5472
+                    "endOffset": 5474
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 161,
                         "startColumn": 4,
-                        "startOffset": 9420,
+                        "startOffset": 9261,
                         "endColumn": 63,
-                        "endOffset": 9479
+                        "endOffset": 9320
                     }
                 }
             },
@@ -1526,18 +1526,18 @@
                 "to": {
                     "startLine": 82,
                     "startColumn": 4,
-                    "startOffset": 5477,
+                    "startOffset": 5479,
                     "endColumn": 61,
-                    "endOffset": 5534
+                    "endOffset": 5536
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 160,
                         "startColumn": 4,
-                        "startOffset": 9357,
+                        "startOffset": 9199,
                         "endColumn": 61,
-                        "endOffset": 9414
+                        "endOffset": 9256
                     }
                 }
             },
@@ -1545,18 +1545,18 @@
                 "to": {
                     "startLine": 83,
                     "startColumn": 4,
-                    "startOffset": 5539,
+                    "startOffset": 5541,
                     "endColumn": 88,
-                    "endOffset": 5623
+                    "endOffset": 5625
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 153,
                         "startColumn": 4,
-                        "startOffset": 9010,
+                        "startOffset": 8859,
                         "endColumn": 88,
-                        "endOffset": 9094
+                        "endOffset": 8943
                     }
                 }
             },
@@ -1564,18 +1564,18 @@
                 "to": {
                     "startLine": 84,
                     "startColumn": 4,
-                    "startOffset": 5628,
+                    "startOffset": 5630,
                     "endColumn": 66,
-                    "endOffset": 5690
+                    "endOffset": 5692
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 156,
                         "startColumn": 4,
-                        "startOffset": 9150,
+                        "startOffset": 8996,
                         "endColumn": 66,
-                        "endOffset": 9212
+                        "endOffset": 9058
                     }
                 }
             },
@@ -1583,18 +1583,18 @@
                 "to": {
                     "startLine": 85,
                     "startColumn": 4,
-                    "startOffset": 5695,
+                    "startOffset": 5697,
                     "endColumn": 65,
-                    "endOffset": 5756
+                    "endOffset": 5758
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 145,
                         "startColumn": 4,
-                        "startOffset": 8628,
+                        "startOffset": 8485,
                         "endColumn": 65,
-                        "endOffset": 8689
+                        "endOffset": 8546
                     }
                 }
             },
@@ -1602,18 +1602,18 @@
                 "to": {
                     "startLine": 86,
                     "startColumn": 4,
-                    "startOffset": 5761,
+                    "startOffset": 5763,
                     "endColumn": 73,
-                    "endOffset": 5830
+                    "endOffset": 5832
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 146,
                         "startColumn": 4,
-                        "startOffset": 8695,
+                        "startOffset": 8551,
                         "endColumn": 73,
-                        "endOffset": 8764
+                        "endOffset": 8620
                     }
                 }
             },
@@ -1621,18 +1621,18 @@
                 "to": {
                     "startLine": 87,
                     "startColumn": 4,
-                    "startOffset": 5835,
+                    "startOffset": 5837,
                     "endColumn": 67,
-                    "endOffset": 5898
+                    "endOffset": 5900
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 147,
                         "startColumn": 4,
-                        "startOffset": 8770,
+                        "startOffset": 8625,
                         "endColumn": 67,
-                        "endOffset": 8833
+                        "endOffset": 8688
                     }
                 }
             },
@@ -1640,18 +1640,18 @@
                 "to": {
                     "startLine": 88,
                     "startColumn": 4,
-                    "startOffset": 5903,
+                    "startOffset": 5905,
                     "endColumn": 66,
-                    "endOffset": 5965
+                    "endOffset": 5967
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 142,
                         "startColumn": 4,
-                        "startOffset": 8488,
+                        "startOffset": 8348,
                         "endColumn": 66,
-                        "endOffset": 8550
+                        "endOffset": 8410
                     }
                 }
             },
@@ -1659,18 +1659,18 @@
                 "to": {
                     "startLine": 89,
                     "startColumn": 4,
-                    "startOffset": 5970,
+                    "startOffset": 5972,
                     "endColumn": 73,
-                    "endOffset": 6039
+                    "endOffset": 6041
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 83,
                         "startColumn": 4,
-                        "startOffset": 4669,
+                        "startOffset": 4588,
                         "endColumn": 73,
-                        "endOffset": 4738
+                        "endOffset": 4657
                     }
                 }
             },
@@ -1678,18 +1678,18 @@
                 "to": {
                     "startLine": 90,
                     "startColumn": 4,
-                    "startOffset": 6044,
+                    "startOffset": 6046,
                     "endColumn": 58,
-                    "endOffset": 6098
+                    "endOffset": 6100
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 86,
                         "startColumn": 4,
-                        "startOffset": 4822,
+                        "startOffset": 4738,
                         "endColumn": 58,
-                        "endOffset": 4876
+                        "endOffset": 4792
                     }
                 }
             },
@@ -1697,18 +1697,18 @@
                 "to": {
                     "startLine": 91,
                     "startColumn": 4,
-                    "startOffset": 6103,
+                    "startOffset": 6105,
                     "endColumn": 60,
-                    "endOffset": 6159
+                    "endOffset": 6161
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 88,
                         "startColumn": 4,
-                        "startOffset": 4959,
+                        "startOffset": 4873,
                         "endColumn": 60,
-                        "endOffset": 5015
+                        "endOffset": 4929
                     }
                 }
             },
@@ -1716,18 +1716,18 @@
                 "to": {
                     "startLine": 92,
                     "startColumn": 4,
-                    "startOffset": 6164,
+                    "startOffset": 6166,
                     "endColumn": 62,
-                    "endOffset": 6222
+                    "endOffset": 6224
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 81,
                         "startColumn": 4,
-                        "startOffset": 4603,
+                        "startOffset": 4524,
                         "endColumn": 62,
-                        "endOffset": 4661
+                        "endOffset": 4582
                     }
                 }
             },
@@ -1735,18 +1735,18 @@
                 "to": {
                     "startLine": 93,
                     "startColumn": 4,
-                    "startOffset": 6227,
+                    "startOffset": 6229,
                     "endColumn": 76,
-                    "endOffset": 6299
+                    "endOffset": 6301
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 137,
                         "startColumn": 4,
-                        "startOffset": 8217,
+                        "startOffset": 8082,
                         "endColumn": 76,
-                        "endOffset": 8289
+                        "endOffset": 8154
                     }
                 }
             },
@@ -1754,18 +1754,18 @@
                 "to": {
                     "startLine": 94,
                     "startColumn": 4,
-                    "startOffset": 6304,
+                    "startOffset": 6306,
                     "endColumn": 78,
-                    "endOffset": 6378
+                    "endOffset": 6380
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 136,
                         "startColumn": 4,
-                        "startOffset": 8137,
+                        "startOffset": 8003,
                         "endColumn": 78,
-                        "endOffset": 8211
+                        "endOffset": 8077
                     }
                 }
             },
@@ -1773,18 +1773,18 @@
                 "to": {
                     "startLine": 95,
                     "startColumn": 4,
-                    "startOffset": 6383,
+                    "startOffset": 6385,
                     "endColumn": 77,
-                    "endOffset": 6456
+                    "endOffset": 6458
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 135,
                         "startColumn": 4,
-                        "startOffset": 8058,
+                        "startOffset": 7925,
                         "endColumn": 77,
-                        "endOffset": 8131
+                        "endOffset": 7998
                     }
                 }
             },
@@ -1792,18 +1792,18 @@
                 "to": {
                     "startLine": 96,
                     "startColumn": 4,
-                    "startOffset": 6461,
+                    "startOffset": 6463,
                     "endColumn": 77,
-                    "endOffset": 6534
+                    "endOffset": 6536
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 134,
                         "startColumn": 4,
-                        "startOffset": 7979,
+                        "startOffset": 7847,
                         "endColumn": 77,
-                        "endOffset": 8052
+                        "endOffset": 7920
                     }
                 }
             },
@@ -1811,18 +1811,18 @@
                 "to": {
                     "startLine": 97,
                     "startColumn": 4,
-                    "startOffset": 6539,
+                    "startOffset": 6541,
                     "endColumn": 77,
-                    "endOffset": 6612
+                    "endOffset": 6614
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 133,
                         "startColumn": 4,
-                        "startOffset": 7900,
+                        "startOffset": 7769,
                         "endColumn": 77,
-                        "endOffset": 7973
+                        "endOffset": 7842
                     }
                 }
             },
@@ -1830,18 +1830,18 @@
                 "to": {
                     "startLine": 98,
                     "startColumn": 4,
-                    "startOffset": 6617,
+                    "startOffset": 6619,
                     "endColumn": 70,
-                    "endOffset": 6683
+                    "endOffset": 6685
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 139,
                         "startColumn": 4,
-                        "startOffset": 8366,
+                        "startOffset": 8229,
                         "endColumn": 70,
-                        "endOffset": 8432
+                        "endOffset": 8295
                     }
                 }
             },
@@ -1849,18 +1849,18 @@
                 "to": {
                     "startLine": 99,
                     "startColumn": 4,
-                    "startOffset": 6688,
+                    "startOffset": 6690,
                     "endColumn": 69,
-                    "endOffset": 6753
+                    "endOffset": 6755
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 138,
                         "startColumn": 4,
-                        "startOffset": 8295,
+                        "startOffset": 8159,
                         "endColumn": 69,
-                        "endOffset": 8360
+                        "endOffset": 8224
                     }
                 }
             },
@@ -1868,18 +1868,18 @@
                 "to": {
                     "startLine": 100,
                     "startColumn": 4,
-                    "startOffset": 6758,
+                    "startOffset": 6760,
                     "endColumn": 70,
-                    "endOffset": 6824
+                    "endOffset": 6826
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 130,
                         "startColumn": 4,
-                        "startOffset": 7754,
+                        "startOffset": 7626,
                         "endColumn": 70,
-                        "endOffset": 7820
+                        "endOffset": 7692
                     }
                 }
             },
@@ -1887,18 +1887,18 @@
                 "to": {
                     "startLine": 101,
                     "startColumn": 4,
-                    "startOffset": 6829,
+                    "startOffset": 6831,
                     "endColumn": 88,
-                    "endOffset": 6913
+                    "endOffset": 6915
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 93,
                         "startColumn": 4,
-                        "startOffset": 5152,
+                        "startOffset": 5061,
                         "endColumn": 88,
-                        "endOffset": 5236
+                        "endOffset": 5145
                     }
                 }
             },
@@ -1906,18 +1906,18 @@
                 "to": {
                     "startLine": 102,
                     "startColumn": 4,
-                    "startOffset": 6918,
+                    "startOffset": 6920,
                     "endColumn": 68,
-                    "endOffset": 6982
+                    "endOffset": 6984
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 96,
                         "startColumn": 4,
-                        "startOffset": 5306,
+                        "startOffset": 5212,
                         "endColumn": 68,
-                        "endOffset": 5370
+                        "endOffset": 5276
                     }
                 }
             },
@@ -1925,18 +1925,18 @@
                 "to": {
                     "startLine": 103,
                     "startColumn": 4,
-                    "startOffset": 6987,
+                    "startOffset": 6989,
                     "endColumn": 66,
-                    "endOffset": 7049
+                    "endOffset": 7051
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 97,
                         "startColumn": 4,
-                        "startOffset": 5376,
+                        "startOffset": 5281,
                         "endColumn": 66,
-                        "endOffset": 5438
+                        "endOffset": 5343
                     }
                 }
             },
@@ -1944,18 +1944,18 @@
                 "to": {
                     "startLine": 104,
                     "startColumn": 4,
-                    "startOffset": 7054,
+                    "startOffset": 7056,
                     "endColumn": 75,
-                    "endOffset": 7125
+                    "endOffset": 7127
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 91,
                         "startColumn": 4,
-                        "startOffset": 5073,
+                        "startOffset": 4984,
                         "endColumn": 75,
-                        "endOffset": 5144
+                        "endOffset": 5055
                     }
                 }
             },
@@ -1963,18 +1963,18 @@
                 "to": {
                     "startLine": 105,
                     "startColumn": 4,
-                    "startOffset": 7130,
+                    "startOffset": 7132,
                     "endColumn": 83,
-                    "endOffset": 7209
+                    "endOffset": 7211
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 180,
                         "startColumn": 4,
-                        "startOffset": 10403,
+                        "startOffset": 10225,
                         "endColumn": 83,
-                        "endOffset": 10482
+                        "endOffset": 10304
                     }
                 }
             },
@@ -1982,18 +1982,18 @@
                 "to": {
                     "startLine": 106,
                     "startColumn": 4,
-                    "startOffset": 7214,
+                    "startOffset": 7216,
                     "endColumn": 69,
-                    "endOffset": 7279
+                    "endOffset": 7281
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 188,
                         "startColumn": 4,
-                        "startOffset": 10802,
+                        "startOffset": 10616,
                         "endColumn": 69,
-                        "endOffset": 10867
+                        "endOffset": 10681
                     }
                 }
             },
@@ -2001,18 +2001,18 @@
                 "to": {
                     "startLine": 107,
                     "startColumn": 4,
-                    "startOffset": 7284,
+                    "startOffset": 7286,
                     "endColumn": 65,
-                    "endOffset": 7345
+                    "endOffset": 7347
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 186,
                         "startColumn": 4,
-                        "startOffset": 10657,
+                        "startOffset": 10473,
                         "endColumn": 65,
-                        "endOffset": 10718
+                        "endOffset": 10534
                     }
                 }
             },
@@ -2020,18 +2020,18 @@
                 "to": {
                     "startLine": 108,
                     "startColumn": 4,
-                    "startOffset": 7350,
+                    "startOffset": 7352,
                     "endColumn": 67,
-                    "endOffset": 7413
+                    "endOffset": 7415
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 190,
                         "startColumn": 4,
-                        "startOffset": 10963,
+                        "startOffset": 10775,
                         "endColumn": 67,
-                        "endOffset": 11026
+                        "endOffset": 10838
                     }
                 }
             },
@@ -2039,18 +2039,18 @@
                 "to": {
                     "startLine": 109,
                     "startColumn": 4,
-                    "startOffset": 7418,
+                    "startOffset": 7420,
                     "endColumn": 67,
-                    "endOffset": 7481
+                    "endOffset": 7483
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 194,
                         "startColumn": 4,
-                        "startOffset": 11261,
+                        "startOffset": 11069,
                         "endColumn": 67,
-                        "endOffset": 11324
+                        "endOffset": 11132
                     }
                 }
             },
@@ -2058,18 +2058,18 @@
                 "to": {
                     "startLine": 110,
                     "startColumn": 4,
-                    "startOffset": 7486,
+                    "startOffset": 7488,
                     "endColumn": 69,
-                    "endOffset": 7551
+                    "endOffset": 7553
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 192,
                         "startColumn": 4,
-                        "startOffset": 11100,
+                        "startOffset": 10910,
                         "endColumn": 69,
-                        "endOffset": 11165
+                        "endOffset": 10975
                     }
                 }
             },
@@ -2077,18 +2077,18 @@
                 "to": {
                     "startLine": 111,
                     "startColumn": 4,
-                    "startOffset": 7556,
+                    "startOffset": 7558,
                     "endColumn": 66,
-                    "endOffset": 7618
+                    "endOffset": 7620
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 183,
                         "startColumn": 4,
-                        "startOffset": 10539,
+                        "startOffset": 10358,
                         "endColumn": 66,
-                        "endOffset": 10601
+                        "endOffset": 10420
                     }
                 }
             },
@@ -2096,18 +2096,18 @@
                 "to": {
                     "startLine": 112,
                     "startColumn": 4,
-                    "startOffset": 7623,
+                    "startOffset": 7625,
                     "endColumn": 73,
-                    "endOffset": 7692
+                    "endOffset": 7694
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 124,
                         "startColumn": 4,
-                        "startOffset": 7480,
+                        "startOffset": 7358,
                         "endColumn": 73,
-                        "endOffset": 7549
+                        "endOffset": 7427
                     }
                 }
             },
@@ -2115,18 +2115,18 @@
                 "to": {
                     "startLine": 113,
                     "startColumn": 4,
-                    "startOffset": 7697,
+                    "startOffset": 7699,
                     "endColumn": 88,
-                    "endOffset": 7781
+                    "endOffset": 7783
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 164,
                         "startColumn": 4,
-                        "startOffset": 9540,
+                        "startOffset": 9378,
                         "endColumn": 88,
-                        "endOffset": 9624
+                        "endOffset": 9462
                     }
                 }
             },
@@ -2134,18 +2134,18 @@
                 "to": {
                     "startLine": 114,
                     "startColumn": 4,
-                    "startOffset": 7786,
+                    "startOffset": 7788,
                     "endColumn": 86,
-                    "endOffset": 7868
+                    "endOffset": 7870
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 167,
                         "startColumn": 4,
-                        "startOffset": 9677,
+                        "startOffset": 9512,
                         "endColumn": 86,
-                        "endOffset": 9759
+                        "endOffset": 9594
                     }
                 }
             },
@@ -2153,18 +2153,18 @@
                 "to": {
                     "startLine": 115,
                     "startColumn": 4,
-                    "startOffset": 7873,
+                    "startOffset": 7875,
                     "endColumn": 68,
-                    "endOffset": 7937
+                    "endOffset": 7939
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 173,
                         "startColumn": 4,
-                        "startOffset": 9967,
+                        "startOffset": 9796,
                         "endColumn": 68,
-                        "endOffset": 10031
+                        "endOffset": 9860
                     }
                 }
             },
@@ -2172,18 +2172,18 @@
                 "to": {
                     "startLine": 116,
                     "startColumn": 4,
-                    "startOffset": 7942,
+                    "startOffset": 7944,
                     "endColumn": 72,
-                    "endOffset": 8010
+                    "endOffset": 8012
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 177,
                         "startColumn": 4,
-                        "startOffset": 10285,
+                        "startOffset": 10110,
                         "endColumn": 72,
-                        "endOffset": 10353
+                        "endOffset": 10178
                     }
                 }
             },
@@ -2191,18 +2191,18 @@
                 "to": {
                     "startLine": 117,
                     "startColumn": 4,
-                    "startOffset": 8015,
+                    "startOffset": 8017,
                     "endColumn": 76,
-                    "endOffset": 8087
+                    "endOffset": 8089
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 175,
                         "startColumn": 4,
-                        "startOffset": 10123,
+                        "startOffset": 9950,
                         "endColumn": 76,
-                        "endOffset": 10195
+                        "endOffset": 10022
                     }
                 }
             },
@@ -2210,18 +2210,18 @@
                 "to": {
                     "startLine": 118,
                     "startColumn": 4,
-                    "startOffset": 8092,
+                    "startOffset": 8094,
                     "endColumn": 82,
-                    "endOffset": 8170
+                    "endOffset": 8172
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 176,
                         "startColumn": 4,
-                        "startOffset": 10201,
+                        "startOffset": 10027,
                         "endColumn": 82,
-                        "endOffset": 10279
+                        "endOffset": 10105
                     }
                 }
             },
@@ -2229,18 +2229,18 @@
                 "to": {
                     "startLine": 119,
                     "startColumn": 4,
-                    "startOffset": 8175,
+                    "startOffset": 8177,
                     "endColumn": 84,
-                    "endOffset": 8255
+                    "endOffset": 8257
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 174,
                         "startColumn": 4,
-                        "startOffset": 10037,
+                        "startOffset": 9865,
                         "endColumn": 84,
-                        "endOffset": 10117
+                        "endOffset": 9945
                     }
                 }
             },
@@ -2248,18 +2248,18 @@
                 "to": {
                     "startLine": 120,
                     "startColumn": 4,
-                    "startOffset": 8260,
+                    "startOffset": 8262,
                     "endColumn": 72,
-                    "endOffset": 8328
+                    "endOffset": 8330
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 170,
                         "startColumn": 4,
-                        "startOffset": 9818,
+                        "startOffset": 9650,
                         "endColumn": 72,
-                        "endOffset": 9886
+                        "endOffset": 9718
                     }
                 }
             },
@@ -2267,18 +2267,18 @@
                 "to": {
                     "startLine": 121,
                     "startColumn": 4,
-                    "startOffset": 8333,
+                    "startOffset": 8335,
                     "endColumn": 72,
-                    "endOffset": 8401
+                    "endOffset": 8403
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 205,
                         "startColumn": 4,
-                        "startOffset": 11823,
+                        "startOffset": 11620,
                         "endColumn": 72,
-                        "endOffset": 11891
+                        "endOffset": 11688
                     }
                 }
             },
@@ -2286,18 +2286,18 @@
                 "to": {
                     "startLine": 122,
                     "startColumn": 4,
-                    "startOffset": 8406,
+                    "startOffset": 8408,
                     "endColumn": 56,
-                    "endOffset": 8458
+                    "endOffset": 8460
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 204,
                         "startColumn": 4,
-                        "startOffset": 11765,
+                        "startOffset": 11563,
                         "endColumn": 56,
-                        "endOffset": 11817
+                        "endOffset": 11615
                     }
                 }
             },
@@ -2305,18 +2305,18 @@
                 "to": {
                     "startLine": 123,
                     "startColumn": 4,
-                    "startOffset": 8463,
+                    "startOffset": 8465,
                     "endColumn": 64,
-                    "endOffset": 8523
+                    "endOffset": 8525
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 201,
                         "startColumn": 4,
-                        "startOffset": 11651,
+                        "startOffset": 11452,
                         "endColumn": 64,
-                        "endOffset": 11711
+                        "endOffset": 11512
                     }
                 }
             },
@@ -2324,18 +2324,18 @@
                 "to": {
                     "startLine": 124,
                     "startColumn": 4,
-                    "startOffset": 8528,
+                    "startOffset": 8530,
                     "endColumn": 62,
-                    "endOffset": 8586
+                    "endOffset": 8588
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 200,
                         "startColumn": 4,
-                        "startOffset": 11587,
+                        "startOffset": 11389,
                         "endColumn": 62,
-                        "endOffset": 11645
+                        "endOffset": 11447
                     }
                 }
             },
@@ -2343,18 +2343,18 @@
                 "to": {
                     "startLine": 125,
                     "startColumn": 4,
-                    "startOffset": 8591,
+                    "startOffset": 8593,
                     "endColumn": 79,
-                    "endOffset": 8666
+                    "endOffset": 8668
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 273,
                         "startColumn": 4,
-                        "startOffset": 15694,
+                        "startOffset": 15423,
                         "endColumn": 79,
-                        "endOffset": 15769
+                        "endOffset": 15498
                     }
                 }
             },
@@ -2362,18 +2362,18 @@
                 "to": {
                     "startLine": 126,
                     "startColumn": 4,
-                    "startOffset": 8671,
+                    "startOffset": 8673,
                     "endColumn": 59,
-                    "endOffset": 8726
+                    "endOffset": 8728
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 276,
                         "startColumn": 4,
-                        "startOffset": 15834,
+                        "startOffset": 15560,
                         "endColumn": 59,
-                        "endOffset": 15889
+                        "endOffset": 15615
                     }
                 }
             },
@@ -2381,18 +2381,18 @@
                 "to": {
                     "startLine": 127,
                     "startColumn": 4,
-                    "startOffset": 8731,
+                    "startOffset": 8733,
                     "endColumn": 77,
-                    "endOffset": 8804
+                    "endOffset": 8806
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 102,
                         "startColumn": 4,
-                        "startOffset": 5637,
+                        "startOffset": 5537,
                         "endColumn": 77,
-                        "endOffset": 5710
+                        "endOffset": 5610
                     }
                 }
             },
@@ -2400,18 +2400,18 @@
                 "to": {
                     "startLine": 128,
                     "startColumn": 4,
-                    "startOffset": 8809,
+                    "startOffset": 8811,
                     "endColumn": 82,
-                    "endOffset": 8887
+                    "endOffset": 8889
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 104,
                         "startColumn": 4,
-                        "startOffset": 5817,
+                        "startOffset": 5715,
                         "endColumn": 82,
-                        "endOffset": 5895
+                        "endOffset": 5793
                     }
                 }
             },
@@ -2419,18 +2419,18 @@
                 "to": {
                     "startLine": 129,
                     "startColumn": 4,
-                    "startOffset": 8892,
+                    "startOffset": 8894,
                     "endColumn": 81,
-                    "endOffset": 8969
+                    "endOffset": 8971
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 108,
                         "startColumn": 4,
-                        "startOffset": 6184,
+                        "startOffset": 6078,
                         "endColumn": 81,
-                        "endOffset": 6261
+                        "endOffset": 6155
                     }
                 }
             },
@@ -2438,18 +2438,18 @@
                 "to": {
                     "startLine": 130,
                     "startColumn": 4,
-                    "startOffset": 8974,
+                    "startOffset": 8976,
                     "endColumn": 81,
-                    "endOffset": 9051
+                    "endOffset": 9053
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 106,
                         "startColumn": 4,
-                        "startOffset": 6001,
+                        "startOffset": 5897,
                         "endColumn": 81,
-                        "endOffset": 6078
+                        "endOffset": 5974
                     }
                 }
             },
@@ -2457,18 +2457,18 @@
                 "to": {
                     "startLine": 131,
                     "startColumn": 4,
-                    "startOffset": 9056,
+                    "startOffset": 9058,
                     "endColumn": 66,
-                    "endOffset": 9118
+                    "endOffset": 9120
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 100,
                         "startColumn": 4,
-                        "startOffset": 5517,
+                        "startOffset": 5419,
                         "endColumn": 66,
-                        "endOffset": 5579
+                        "endOffset": 5481
                     }
                 }
             },
@@ -2476,18 +2476,18 @@
                 "to": {
                     "startLine": 132,
                     "startColumn": 4,
-                    "startOffset": 9123,
+                    "startOffset": 9125,
                     "endColumn": 95,
-                    "endOffset": 9214
+                    "endOffset": 9216
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 113,
                         "startColumn": 4,
-                        "startOffset": 6528,
+                        "startOffset": 6417,
                         "endColumn": 95,
-                        "endOffset": 6619
+                        "endOffset": 6508
                     }
                 }
             },
@@ -2495,18 +2495,18 @@
                 "to": {
                     "startLine": 133,
                     "startColumn": 4,
-                    "startOffset": 9219,
+                    "startOffset": 9221,
                     "endColumn": 99,
-                    "endOffset": 9314
+                    "endOffset": 9316
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 115,
                         "startColumn": 4,
-                        "startOffset": 6704,
+                        "startOffset": 6591,
                         "endColumn": 99,
-                        "endOffset": 6799
+                        "endOffset": 6686
                     }
                 }
             },
@@ -2514,18 +2514,18 @@
                 "to": {
                     "startLine": 134,
                     "startColumn": 4,
-                    "startOffset": 9319,
+                    "startOffset": 9321,
                     "endColumn": 101,
-                    "endOffset": 9416
+                    "endOffset": 9418
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 121,
                         "startColumn": 4,
-                        "startOffset": 7314,
+                        "startOffset": 7195,
                         "endColumn": 101,
-                        "endOffset": 7411
+                        "endOffset": 7292
                     }
                 }
             },
@@ -2533,18 +2533,18 @@
                 "to": {
                     "startLine": 135,
                     "startColumn": 4,
-                    "startOffset": 9421,
+                    "startOffset": 9423,
                     "endColumn": 101,
-                    "endOffset": 9518
+                    "endOffset": 9520
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 116,
                         "startColumn": 4,
-                        "startOffset": 6805,
+                        "startOffset": 6691,
                         "endColumn": 101,
-                        "endOffset": 6902
+                        "endOffset": 6788
                     }
                 }
             },
@@ -2552,18 +2552,18 @@
                 "to": {
                     "startLine": 136,
                     "startColumn": 4,
-                    "startOffset": 9523,
+                    "startOffset": 9525,
                     "endColumn": 99,
-                    "endOffset": 9618
+                    "endOffset": 9620
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 117,
                         "startColumn": 4,
-                        "startOffset": 6908,
+                        "startOffset": 6793,
                         "endColumn": 99,
-                        "endOffset": 7003
+                        "endOffset": 6888
                     }
                 }
             },
@@ -2571,18 +2571,18 @@
                 "to": {
                     "startLine": 137,
                     "startColumn": 4,
-                    "startOffset": 9623,
+                    "startOffset": 9625,
                     "endColumn": 101,
-                    "endOffset": 9720
+                    "endOffset": 9722
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 118,
                         "startColumn": 4,
-                        "startOffset": 7009,
+                        "startOffset": 6893,
                         "endColumn": 101,
-                        "endOffset": 7106
+                        "endOffset": 6990
                     }
                 }
             },
@@ -2590,18 +2590,18 @@
                 "to": {
                     "startLine": 138,
                     "startColumn": 4,
-                    "startOffset": 9725,
+                    "startOffset": 9727,
                     "endColumn": 99,
-                    "endOffset": 9820
+                    "endOffset": 9822
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 119,
                         "startColumn": 4,
-                        "startOffset": 7112,
+                        "startOffset": 6995,
                         "endColumn": 99,
-                        "endOffset": 7207
+                        "endOffset": 7090
                     }
                 }
             },
@@ -2609,18 +2609,18 @@
                 "to": {
                     "startLine": 139,
                     "startColumn": 4,
-                    "startOffset": 9825,
+                    "startOffset": 9827,
                     "endColumn": 99,
-                    "endOffset": 9920
+                    "endOffset": 9922
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 120,
                         "startColumn": 4,
-                        "startOffset": 7213,
+                        "startOffset": 7095,
                         "endColumn": 99,
-                        "endOffset": 7308
+                        "endOffset": 7190
                     }
                 }
             },
@@ -2628,18 +2628,18 @@
                 "to": {
                     "startLine": 140,
                     "startColumn": 4,
-                    "startOffset": 9925,
+                    "startOffset": 9927,
                     "endColumn": 90,
-                    "endOffset": 10011
+                    "endOffset": 10013
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 112,
                         "startColumn": 4,
-                        "startOffset": 6436,
+                        "startOffset": 6326,
                         "endColumn": 90,
-                        "endOffset": 6522
+                        "endOffset": 6412
                     }
                 }
             },
@@ -2647,18 +2647,18 @@
                 "to": {
                     "startLine": 141,
                     "startColumn": 4,
-                    "startOffset": 10016,
+                    "startOffset": 10018,
                     "endColumn": 68,
-                    "endOffset": 10080
+                    "endOffset": 10082
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 4,
-                        "startOffset": 2506,
+                        "startOffset": 2462,
                         "endColumn": 68,
-                        "endOffset": 2570
+                        "endOffset": 2526
                     }
                 }
             },
@@ -2666,18 +2666,18 @@
                 "to": {
                     "startLine": 142,
                     "startColumn": 4,
-                    "startOffset": 10085,
+                    "startOffset": 10087,
                     "endColumn": 48,
-                    "endOffset": 10129
+                    "endOffset": 10131
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 63,
                         "startColumn": 4,
-                        "startOffset": 3619,
+                        "startOffset": 3558,
                         "endColumn": 48,
-                        "endOffset": 3663
+                        "endOffset": 3602
                     }
                 }
             },
@@ -2685,18 +2685,18 @@
                 "to": {
                     "startLine": 143,
                     "startColumn": 4,
-                    "startOffset": 10134,
+                    "startOffset": 10136,
                     "endColumn": 42,
-                    "endOffset": 10172
+                    "endOffset": 10174
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 66,
                         "startColumn": 4,
-                        "startOffset": 3791,
+                        "startOffset": 3727,
                         "endColumn": 42,
-                        "endOffset": 3829
+                        "endOffset": 3765
                     }
                 }
             },
@@ -2704,18 +2704,18 @@
                 "to": {
                     "startLine": 144,
                     "startColumn": 4,
-                    "startOffset": 10177,
+                    "startOffset": 10179,
                     "endColumn": 44,
-                    "endOffset": 10217
+                    "endOffset": 10219
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 60,
                         "startColumn": 4,
-                        "startOffset": 3421,
+                        "startOffset": 3363,
                         "endColumn": 44,
-                        "endOffset": 3461
+                        "endOffset": 3403
                     }
                 }
             },
@@ -2723,18 +2723,18 @@
                 "to": {
                     "startLine": 145,
                     "startColumn": 4,
-                    "startOffset": 10222,
+                    "startOffset": 10224,
                     "endColumn": 48,
-                    "endOffset": 10266
+                    "endOffset": 10268
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 69,
                         "startColumn": 4,
-                        "startOffset": 3957,
+                        "startOffset": 3890,
                         "endColumn": 48,
-                        "endOffset": 4001
+                        "endOffset": 3934
                     }
                 }
             },
@@ -2742,18 +2742,18 @@
                 "to": {
                     "startLine": 146,
                     "startColumn": 4,
-                    "startOffset": 10271,
+                    "startOffset": 10273,
                     "endColumn": 71,
-                    "endOffset": 10338
+                    "endOffset": 10340
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 237,
                         "startColumn": 4,
-                        "startOffset": 13671,
+                        "startOffset": 13436,
                         "endColumn": 71,
-                        "endOffset": 13738
+                        "endOffset": 13503
                     }
                 }
             },
@@ -2761,18 +2761,18 @@
                 "to": {
                     "startLine": 147,
                     "startColumn": 4,
-                    "startOffset": 10343,
+                    "startOffset": 10345,
                     "endColumn": 68,
-                    "endOffset": 10407
+                    "endOffset": 10409
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 236,
                         "startColumn": 4,
-                        "startOffset": 13598,
+                        "startOffset": 13364,
                         "endColumn": 71,
-                        "endOffset": 13665
+                        "endOffset": 13431
                     }
                 }
             },
@@ -2780,18 +2780,18 @@
                 "to": {
                     "startLine": 148,
                     "startColumn": 4,
-                    "startOffset": 10412,
+                    "startOffset": 10414,
                     "endColumn": 63,
-                    "endOffset": 10471
+                    "endOffset": 10473
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 240,
                         "startColumn": 4,
-                        "startOffset": 13864,
+                        "startOffset": 13626,
                         "endColumn": 63,
-                        "endOffset": 13923
+                        "endOffset": 13685
                     }
                 }
             },
@@ -2799,18 +2799,18 @@
                 "to": {
                     "startLine": 149,
                     "startColumn": 4,
-                    "startOffset": 10476,
+                    "startOffset": 10478,
                     "endColumn": 59,
-                    "endOffset": 10531
+                    "endOffset": 10533
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 243,
                         "startColumn": 4,
-                        "startOffset": 14047,
+                        "startOffset": 13806,
                         "endColumn": 59,
-                        "endOffset": 14102
+                        "endOffset": 13861
                     }
                 }
             },
@@ -2818,18 +2818,18 @@
                 "to": {
                     "startLine": 150,
                     "startColumn": 4,
-                    "startOffset": 10536,
+                    "startOffset": 10538,
                     "endColumn": 153,
-                    "endOffset": 10685
+                    "endOffset": 10687
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 211,
                         "startColumn": 4,
-                        "startOffset": 12052,
+                        "startOffset": 11843,
                         "endColumn": 153,
-                        "endOffset": 12201
+                        "endOffset": 11992
                     }
                 }
             },
@@ -2837,18 +2837,18 @@
                 "to": {
                     "startLine": 151,
                     "startColumn": 4,
-                    "startOffset": 10690,
+                    "startOffset": 10692,
                     "endColumn": 58,
-                    "endOffset": 10744
+                    "endOffset": 10746
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 75,
                         "startColumn": 4,
-                        "startOffset": 4194,
+                        "startOffset": 4121,
                         "endColumn": 58,
-                        "endOffset": 4248
+                        "endOffset": 4175
                     }
                 }
             },
@@ -2856,18 +2856,18 @@
                 "to": {
                     "startLine": 152,
                     "startColumn": 4,
-                    "startOffset": 10749,
+                    "startOffset": 10751,
                     "endColumn": 67,
-                    "endOffset": 10812
+                    "endOffset": 10814
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 228,
                         "startColumn": 4,
-                        "startOffset": 13214,
+                        "startOffset": 12988,
                         "endColumn": 67,
-                        "endOffset": 13277
+                        "endOffset": 13051
                     }
                 }
             },
@@ -2875,18 +2875,18 @@
                 "to": {
                     "startLine": 153,
                     "startColumn": 4,
-                    "startOffset": 10817,
+                    "startOffset": 10819,
                     "endColumn": 71,
-                    "endOffset": 10884
+                    "endOffset": 10886
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 234,
                         "startColumn": 4,
-                        "startOffset": 13523,
+                        "startOffset": 13291,
                         "endColumn": 71,
-                        "endOffset": 13590
+                        "endOffset": 13358
                     }
                 }
             },
@@ -2894,18 +2894,18 @@
                 "to": {
                     "startLine": 154,
                     "startColumn": 4,
-                    "startOffset": 10889,
+                    "startOffset": 10891,
                     "endColumn": 65,
-                    "endOffset": 10950
+                    "endOffset": 10952
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 231,
                         "startColumn": 4,
-                        "startOffset": 13368,
+                        "startOffset": 13139,
                         "endColumn": 65,
-                        "endOffset": 13429
+                        "endOffset": 13200
                     }
                 }
             },
@@ -2913,18 +2913,18 @@
                 "to": {
                     "startLine": 155,
                     "startColumn": 4,
-                    "startOffset": 10955,
+                    "startOffset": 10957,
                     "endColumn": 56,
-                    "endOffset": 11007
+                    "endOffset": 11009
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 270,
                         "startColumn": 4,
-                        "startOffset": 15573,
+                        "startOffset": 15305,
                         "endColumn": 56,
-                        "endOffset": 15625
+                        "endOffset": 15357
                     }
                 }
             },
@@ -2932,18 +2932,18 @@
                 "to": {
                     "startLine": 156,
                     "startColumn": 4,
-                    "startOffset": 11012,
+                    "startOffset": 11014,
                     "endColumn": 65,
-                    "endOffset": 11073
+                    "endOffset": 11075
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 78,
                         "startColumn": 4,
-                        "startOffset": 4384,
+                        "startOffset": 4308,
                         "endColumn": 65,
-                        "endOffset": 4445
+                        "endOffset": 4369
                     }
                 }
             },
@@ -2951,18 +2951,18 @@
                 "to": {
                     "startLine": 157,
                     "startColumn": 4,
-                    "startOffset": 11078,
+                    "startOffset": 11080,
                     "endColumn": 60,
-                    "endOffset": 11134
+                    "endOffset": 11136
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 108,
+                        "startOffset": 107,
                         "endColumn": 60,
-                        "endOffset": 164
+                        "endOffset": 163
                     }
                 }
             },
@@ -2970,18 +2970,18 @@
                 "to": {
                     "startLine": 158,
                     "startColumn": 4,
-                    "startOffset": 11139,
+                    "startOffset": 11141,
                     "endColumn": 77,
-                    "endOffset": 11212
+                    "endOffset": 11214
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 278,
+                        "startOffset": 274,
                         "endColumn": 77,
-                        "endOffset": 351
+                        "endOffset": 347
                     }
                 }
             },
@@ -2989,18 +2989,18 @@
                 "to": {
                     "startLine": 159,
                     "startColumn": 4,
-                    "startOffset": 11217,
+                    "startOffset": 11219,
                     "endColumn": 56,
-                    "endOffset": 11269
+                    "endOffset": 11271
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
-                        "startOffset": 1164,
+                        "startOffset": 1142,
                         "endColumn": 56,
-                        "endOffset": 1216
+                        "endOffset": 1194
                     }
                 }
             },
@@ -3008,18 +3008,18 @@
                 "to": {
                     "startLine": 160,
                     "startColumn": 4,
-                    "startOffset": 11274,
+                    "startOffset": 11276,
                     "endColumn": 95,
-                    "endOffset": 11365
+                    "endOffset": 11367
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 219,
                         "startColumn": 4,
-                        "startOffset": 12736,
+                        "startOffset": 12519,
                         "endColumn": 95,
-                        "endOffset": 12827
+                        "endOffset": 12610
                     }
                 }
             },
@@ -3027,18 +3027,18 @@
                 "to": {
                     "startLine": 161,
                     "startColumn": 4,
-                    "startOffset": 11370,
+                    "startOffset": 11372,
                     "endColumn": 70,
-                    "endOffset": 11436
+                    "endOffset": 11438
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 225,
                         "startColumn": 4,
-                        "startOffset": 13056,
+                        "startOffset": 12833,
                         "endColumn": 70,
-                        "endOffset": 13122
+                        "endOffset": 12899
                     }
                 }
             },
@@ -3046,18 +3046,18 @@
                 "to": {
                     "startLine": 162,
                     "startColumn": 4,
-                    "startOffset": 11441,
+                    "startOffset": 11443,
                     "endColumn": 115,
-                    "endOffset": 11552
+                    "endOffset": 11554
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 306,
                         "startColumn": 4,
-                        "startOffset": 17841,
+                        "startOffset": 17537,
                         "endColumn": 115,
-                        "endOffset": 17952
+                        "endOffset": 17648
                     }
                 }
             },
@@ -3065,18 +3065,18 @@
                 "to": {
                     "startLine": 163,
                     "startColumn": 4,
-                    "startOffset": 11557,
+                    "startOffset": 11559,
                     "endColumn": 50,
-                    "endOffset": 11603
+                    "endOffset": 11605
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
-                        "startOffset": 1606,
+                        "startOffset": 1575,
                         "endColumn": 50,
-                        "endOffset": 1652
+                        "endOffset": 1621
                     }
                 }
             },
@@ -3084,20 +3084,20 @@
                 "to": {
                     "startLine": 164,
                     "startColumn": 4,
-                    "startOffset": 11608,
+                    "startOffset": 11610,
                     "endLine": 170,
                     "endColumn": 12,
-                    "endOffset": 11894
+                    "endOffset": 11896
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 192,
+                        "startOffset": 186,
                         "endLine": 12,
                         "endColumn": 12,
-                        "endOffset": 484
+                        "endOffset": 472
                     }
                 }
             },
@@ -3105,20 +3105,20 @@
                 "to": {
                     "startLine": 171,
                     "startColumn": 4,
-                    "startOffset": 11899,
+                    "startOffset": 11901,
                     "endLine": 173,
                     "endColumn": 12,
-                    "endOffset": 12054
+                    "endOffset": 12056
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 525,
+                        "startOffset": 510,
                         "endLine": 17,
                         "endColumn": 12,
-                        "endOffset": 682
+                        "endOffset": 665
                     }
                 }
             },
@@ -3126,20 +3126,20 @@
                 "to": {
                     "startLine": 174,
                     "startColumn": 4,
-                    "startOffset": 12059,
+                    "startOffset": 12061,
                     "endLine": 181,
                     "endColumn": 12,
-                    "endOffset": 12476
+                    "endOffset": 12478
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
-                        "startOffset": 1016,
+                        "startOffset": 993,
                         "endLine": 30,
                         "endColumn": 12,
-                        "endOffset": 1440
+                        "endOffset": 1410
                     }
                 }
             },
@@ -3147,20 +3147,20 @@
                 "to": {
                     "startLine": 182,
                     "startColumn": 4,
-                    "startOffset": 12481,
+                    "startOffset": 12483,
                     "endLine": 186,
                     "endColumn": 12,
-                    "endOffset": 12725
+                    "endOffset": 12727
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
-                        "startOffset": 1446,
+                        "startOffset": 1415,
                         "endLine": 35,
                         "endColumn": 12,
-                        "endOffset": 1694
+                        "endOffset": 1659
                     }
                 }
             },
@@ -3168,20 +3168,20 @@
                 "to": {
                     "startLine": 187,
                     "startColumn": 4,
-                    "startOffset": 12730,
+                    "startOffset": 12732,
                     "endLine": 191,
                     "endColumn": 12,
-                    "endOffset": 12946
+                    "endOffset": 12948
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 137,
                         "startColumn": 4,
-                        "startOffset": 6825,
+                        "startOffset": 6688,
                         "endLine": 141,
                         "endColumn": 12,
-                        "endOffset": 7045
+                        "endOffset": 6904
                     }
                 }
             },
@@ -3189,20 +3189,20 @@
                 "to": {
                     "startLine": 192,
                     "startColumn": 4,
-                    "startOffset": 12951,
+                    "startOffset": 12953,
                     "endLine": 194,
                     "endColumn": 12,
-                    "endOffset": 13087
+                    "endOffset": 13089
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 82,
                         "startColumn": 4,
-                        "startOffset": 3949,
+                        "startOffset": 3867,
                         "endLine": 84,
                         "endColumn": 12,
-                        "endOffset": 4087
+                        "endOffset": 4003
                     }
                 }
             },
@@ -3210,20 +3210,20 @@
                 "to": {
                     "startLine": 195,
                     "startColumn": 4,
-                    "startOffset": 13092,
+                    "startOffset": 13094,
                     "endLine": 201,
                     "endColumn": 12,
-                    "endOffset": 13412
+                    "endOffset": 13414
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 75,
                         "startColumn": 4,
-                        "startOffset": 3617,
+                        "startOffset": 3542,
                         "endLine": 81,
                         "endColumn": 12,
-                        "endOffset": 3943
+                        "endOffset": 3862
                     }
                 }
             },
@@ -3231,20 +3231,20 @@
                 "to": {
                     "startLine": 202,
                     "startColumn": 4,
-                    "startOffset": 13417,
+                    "startOffset": 13419,
                     "endLine": 206,
                     "endColumn": 12,
-                    "endOffset": 13652
+                    "endOffset": 13654
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 62,
                         "startColumn": 4,
-                        "startOffset": 3021,
+                        "startOffset": 2959,
                         "endLine": 66,
                         "endColumn": 12,
-                        "endOffset": 3260
+                        "endOffset": 3194
                     }
                 }
             },
@@ -3252,20 +3252,20 @@
                 "to": {
                     "startLine": 207,
                     "startColumn": 4,
-                    "startOffset": 13657,
+                    "startOffset": 13659,
                     "endLine": 222,
                     "endColumn": 12,
-                    "endOffset": 14503
+                    "endOffset": 14505
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 4,
-                        "startOffset": 2154,
+                        "startOffset": 2108,
                         "endLine": 61,
                         "endColumn": 12,
-                        "endOffset": 3015
+                        "endOffset": 2954
                     }
                 }
             },
@@ -3273,20 +3273,20 @@
                 "to": {
                     "startLine": 223,
                     "startColumn": 4,
-                    "startOffset": 14508,
+                    "startOffset": 14510,
                     "endLine": 231,
                     "endColumn": 12,
-                    "endOffset": 14946
+                    "endOffset": 14948
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
-                        "startOffset": 1700,
+                        "startOffset": 1664,
                         "endLine": 44,
                         "endColumn": 12,
-                        "endOffset": 2146
+                        "endOffset": 2102
                     }
                 }
             },
@@ -3294,20 +3294,20 @@
                 "to": {
                     "startLine": 232,
                     "startColumn": 4,
-                    "startOffset": 14951,
+                    "startOffset": 14953,
                     "endLine": 237,
                     "endColumn": 12,
-                    "endOffset": 15231
+                    "endOffset": 15233
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 85,
                         "startColumn": 4,
-                        "startOffset": 4093,
+                        "startOffset": 4008,
                         "endLine": 90,
                         "endColumn": 12,
-                        "endOffset": 4378
+                        "endOffset": 4288
                     }
                 }
             },
@@ -3315,20 +3315,20 @@
                 "to": {
                     "startLine": 238,
                     "startColumn": 4,
-                    "startOffset": 15236,
+                    "startOffset": 15238,
                     "endLine": 244,
                     "endColumn": 12,
-                    "endOffset": 15573
+                    "endOffset": 15575
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 67,
                         "startColumn": 4,
-                        "startOffset": 3266,
+                        "startOffset": 3199,
                         "endLine": 73,
                         "endColumn": 12,
-                        "endOffset": 3609
+                        "endOffset": 3536
                     }
                 }
             },
@@ -3336,20 +3336,20 @@
                 "to": {
                     "startLine": 245,
                     "startColumn": 4,
-                    "startOffset": 15578,
+                    "startOffset": 15580,
                     "endLine": 249,
                     "endColumn": 12,
-                    "endOffset": 15897
+                    "endOffset": 15899
                 },
                 "from": {
-                    "file": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 3,
-                        "startOffset": 687,
+                        "startOffset": 669,
                         "endLine": 22,
                         "endColumn": 12,
-                        "endOffset": 1010
+                        "endOffset": 988
                     }
                 }
             }

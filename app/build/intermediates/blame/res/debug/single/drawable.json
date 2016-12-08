@@ -1,34 +1,34 @@
 [
     {
-        "merged": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_shutter_retake.xml",
-        "source": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\drawable\\btn_shutter_retake.xml"
+        "merged": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/build/intermediates/res/merged/debug/drawable/ic_pan_border_fast.9.png",
+        "source": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/drawable/ic_pan_border_fast.9.png"
     },
     {
-        "merged": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pano_direction_left_indicator.xml",
-        "source": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\drawable\\pano_direction_left_indicator.xml"
+        "merged": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/build/intermediates/res/merged/debug/drawable/btn_shutter.xml",
+        "source": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/drawable/btn_shutter.xml"
     },
     {
-        "merged": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_pressed.xml",
-        "source": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\drawable\\bg_pressed.xml"
+        "merged": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/build/intermediates/res/merged/debug/drawable/btn_shutter_retake.xml",
+        "source": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/drawable/btn_shutter_retake.xml"
     },
     {
-        "merged": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_pan_border_fast.9.png",
-        "source": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\drawable\\ic_pan_border_fast.9.png"
+        "merged": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/build/intermediates/res/merged/debug/drawable/border_last_picture.xml",
+        "source": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/drawable/border_last_picture.xml"
     },
     {
-        "merged": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border_last_picture.xml",
-        "source": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\drawable\\border_last_picture.xml"
+        "merged": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/build/intermediates/res/merged/debug/drawable/pano_direction_right_indicator.xml",
+        "source": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/drawable/pano_direction_right_indicator.xml"
     },
     {
-        "merged": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pano_direction_right_indicator.xml",
-        "source": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\drawable\\pano_direction_right_indicator.xml"
+        "merged": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/build/intermediates/res/merged/debug/drawable/btn_shutter_pan.xml",
+        "source": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/drawable/btn_shutter_pan.xml"
     },
     {
-        "merged": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_shutter_pan.xml",
-        "source": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\drawable\\btn_shutter_pan.xml"
+        "merged": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/build/intermediates/res/merged/debug/drawable/bg_pressed.xml",
+        "source": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/drawable/bg_pressed.xml"
     },
     {
-        "merged": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_shutter.xml",
-        "source": "D:\\Develop\\WorkSpace\\Thermal\\PanoramaSample\\app\\src\\main\\res\\drawable\\btn_shutter.xml"
+        "merged": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/build/intermediates/res/merged/debug/drawable/pano_direction_left_indicator.xml",
+        "source": "/home/shawn/Develop/WorkSpace/Thermal/PanoramaSample/app/src/main/res/drawable/pano_direction_left_indicator.xml"
     }
 ]
