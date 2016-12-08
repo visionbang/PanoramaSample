@@ -1,0 +1,141 @@
+See file:///D:/Develop/WorkSpace/Thermal/PanoramaSample/app/build/tmp/compileJni_mosaicArm64-v8aDebugSharedLibraryJni_mosaicArm64-v8aDebugSharedLibraryMainCpp/output.txt for all output for compileJni_mosaicArm64-v8aDebugSharedLibraryJni_mosaicArm64-v8aDebugSharedLibraryMainCpp.
+compiling AlignFeatures.cpp failed.
+In file included from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\jni\feature_mos\src\mosaic\AlignFeatures.cpp:28:
+D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\jni\feature_mos\src\mosaic/AlignFeatures.h:26:10: fatal error: 'dbreg/dbreg.h' file not found
+#include "dbreg/dbreg.h"
+         ^
+1 error generated.
+
+compiling ImageUtils.cpp successful.
+D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\jni\feature_mos\src\mosaic\ImageUtils.cpp:286:19: warning: expression which evaluates to zero treated as a null pointer constant of type 'ImageType' (aka 'unsigned char *') [-Wnon-literal-null-conversion]
+  ImageType ret = IMAGE_TYPE_NOIMAGE;
+                  ^~~~~~~~~~~~~~~~~~
+1 warning generated.
+
+compiling Delaunay.cpp successful.
+
+compiling Blend.cpp successful.
+In file included from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\jni\feature_mos\src\mosaic\Blend.cpp:24:
+D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\jni\feature_mos\src\mosaic/Blend.h:122:23: warning: in-class initializer for static data member of type 'const float' is a GNU extension [-Wgnu-static-float-init]
+   static const float LIMIT_SIZE_MULTIPLIER = 5.0f * 2.0f;
+                      ^                       ~~~~~~~~~~~
+D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\jni\feature_mos\src\mosaic/Blend.h:123:23: warning: in-class initializer for static data member of type 'const float' is a GNU extension [-Wgnu-static-float-init]
+   static const float LIMIT_HEIGHT_MULTIPLIER = 2.5f;
+                      ^                         ~~~~
+In file included from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\jni\feature_mos\src\mosaic\Blend.cpp:29:
+D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\jni\feature_mos\src\mosaic/Log.h:16:9: warning: 'LOG_H_' is used as a header guard here, followed by #define of a different macro [-Wheader-guard]
+#ifndef LOG_H_
+        ^~~~~~
+D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\jni\feature_mos\src\mosaic/Log.h:17:9: note: 'LOG_H' is defined here; did you mean 'LOG_H_'?
+#define LOG_H
+        ^~~~~
+        LOG_H_
+D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\jni\feature_mos\src\mosaic\Blend.cpp:805:5: warning: 'delete' applied to a pointer that was allocated with 'new[]'; did you mean 'delete[]'? [-Wmismatched-new-delete]
+    delete b;
+    ^
+          []
+D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\jni\feature_mos\src\mosaic\Blend.cpp:658:16: note: allocated with 'new[]' here
+    bool **b = new bool*[imgMos.Y.height];
+               ^
+D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\jni\feature_mos\src\mosaic\Blend.cpp:1327:13: warning: using integer absolute value function 'abs' when argument is of floating point type [-Wabsolute-value]
+        if (abs(lxpos - fxpos) > abs(lypos - fypos))
+            ^
+D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\jni\feature_mos\src\mosaic\Blend.cpp:1327:13: note: use function 'std::abs' instead
+        if (abs(lxpos - fxpos) > abs(lypos - fypos))
+            ^~~
+            std::abs
+D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\jni\feature_mos\src\mosaic\Blend.cpp:1327:13: note: include the header <cmath> or explicitly provide a declaration for 'std::abs'
+D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\jni\feature_mos\src\mosaic\Blend.cpp:1327:34: warning: using integer absolute value function 'abs' when argument is of floating point type [-Wabsolute-value]
+        if (abs(lxpos - fxpos) > abs(lypos - fypos))
+                                 ^
+D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\jni\feature_mos\src\mosaic\Blend.cpp:1327:34: note: use function 'std::abs' instead
+        if (abs(lxpos - fxpos) > abs(lypos - fypos))
+                                 ^~~
+                                 std::abs
+D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\jni\feature_mos\src\mosaic\Blend.cpp:1327:34: note: include the header <cmath> or explicitly provide a declaration for 'std::abs'
+6 warnings generated.
+
+compiling Mosaic.cpp failed.
+In file included from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\jni\feature_mos\src\mosaic\Mosaic.cpp:26:
+In file included from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\jni\feature_mos\src\mosaic/Mosaic.h:27:
+D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\jni\feature_mos\src\mosaic/AlignFeatures.h:26:10: fatal error: 'dbreg/dbreg.h' file not found
+#include "dbreg/dbreg.h"
+         ^
+1 error generated.
+
+compiling Pyramid.cpp successful.
+
+compiling trsMatrix.cpp successful.
+
+compiling Renderer.cpp failed.
+D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\jni\feature_mos\src\mosaic_renderer\Renderer.cpp:19:10: fatal error: 'mosaic/Log.h' file not found
+#include "mosaic/Log.h"
+         ^
+1 error generated.
+
+compiling FrameBuffer.cpp successful.
+
+compiling SurfaceTextureRenderer.cpp successful.
+
+compiling WarpRenderer.cpp successful.
+
+compiling YVURenderer.cpp successful.
+
+compiling db_framestitching.cpp successful.
+
+compiling db_feature_detection.cpp successful.
+
+compiling db_feature_matching.cpp successful.
+
+compiling feature_mos_jni.cpp failed.
+D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\jni\feature_mos_jni.cpp:25:10: fatal error: 'db_utilities_camera.h' file not found
+#include <db_utilities_camera.h>
+         ^
+1 error generated.
+
+compiling db_image_homography.cpp successful.
+
+compiling db_rob_image_homography.cpp successful.
+
+compiling db_utilities_camera.cpp successful.
+
+compiling db_utilities.cpp successful.
+
+compiling db_utilities_indexing.cpp successful.
+
+compiling dbreg.cpp failed.
+In file included from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\jni\feature_stab\src\dbreg\dbreg.cpp:18:
+D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\jni\feature_stab\src\dbreg/dbreg.h:35:10: fatal error: 'db_feature_detection.h' file not found
+#include <db_feature_detection.h>
+         ^
+1 error generated.
+
+compiling db_utilities_linalg.cpp successful.
+
+compiling db_utilities_poly.cpp successful.
+
+compiling dbstabsmooth.cpp successful.
+
+compiling dbregtest.cpp failed.
+In file included from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\jni\feature_stab\src\dbregtest\dbregtest.cpp:19:
+D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\jni\feature_stab\src\dbregtest/PgmImage.h:19:10: fatal error: 'vector' file not found
+#include <vector>
+         ^
+1 error generated.
+
+compiling PgmImage.cpp failed.
+In file included from D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\jni\feature_stab\src\dbregtest\PgmImage.cpp:17:
+D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\jni\feature_stab\src\dbregtest/PgmImage.h:19:10: fatal error: 'vector' file not found
+#include <vector>
+         ^
+1 error generated.
+
+compiling stdafx.cpp successful.
+
+compiling mosaic_renderer_jni.cpp failed.
+D:\Develop\WorkSpace\Thermal\PanoramaSample\app\src\main\jni\mosaic_renderer_jni.cpp:23:10: fatal error: 'db_utilities_camera.h' file not found
+#include "db_utilities_camera.h"
+         ^
+1 error generated.
+
+Finished compileJni_mosaicArm64-v8aDebugSharedLibraryJni_mosaicArm64-v8aDebugSharedLibraryMainCpp, see full log file:///D:/Develop/WorkSpace/Thermal/PanoramaSample/app/build/tmp/compileJni_mosaicArm64-v8aDebugSharedLibraryJni_mosaicArm64-v8aDebugSharedLibraryMainCpp/output.txt.

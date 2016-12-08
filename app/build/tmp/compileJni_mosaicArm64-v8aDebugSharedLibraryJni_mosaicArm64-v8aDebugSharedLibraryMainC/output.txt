@@ -1,0 +1,4 @@
+See file:///D:/Develop/WorkSpace/Thermal/PanoramaSample/app/build/tmp/compileJni_mosaicArm64-v8aDebugSharedLibraryJni_mosaicArm64-v8aDebugSharedLibraryMainC/output.txt for all output for compileJni_mosaicArm64-v8aDebugSharedLibraryJni_mosaicArm64-v8aDebugSharedLibraryMainC.
+compiling vp_motionmodel.c successful.
+
+Finished compileJni_mosaicArm64-v8aDebugSharedLibraryJni_mosaicArm64-v8aDebugSharedLibraryMainC, see full log file:///D:/Develop/WorkSpace/Thermal/PanoramaSample/app/build/tmp/compileJni_mosaicArm64-v8aDebugSharedLibraryJni_mosaicArm64-v8aDebugSharedLibraryMainC/output.txt.

@@ -1,7 +1,0 @@
-package com.nv.camera.panorama;
-
-import android.app.Fragment;
-
-public class PanoramaFragment extends Fragment {
-
-}
