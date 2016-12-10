@@ -31,7 +31,7 @@ import javax.microedition.khronos.egl.EGLContext;
 import javax.microedition.khronos.egl.EGLDisplay;
 
 public class MosaicRendererSurfaceView extends GLSurfaceView {
-    private static final String TAG = "MosaicRendererSurfaceView";
+    private static final String TAG = "MRendererSurfaceView";
     private static final boolean DEBUG = false;
     private MosaicRendererSurfaceViewRenderer mRenderer;
     private ConditionVariable mPreviewFrameReadyForProcessing;
