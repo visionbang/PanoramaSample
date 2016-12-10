@@ -6,4 +6,4 @@ build/*
 ./app/app.iml
 ./app/src/main/jniLibs/*
 ./app/src/main/libs/*
-./app/src/main/obj/*
+./app/src/main/ob
