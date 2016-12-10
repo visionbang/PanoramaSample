@@ -1,4 +1,9 @@
 ./idea/*
 ./gradle/*
-build/
+build/*
 ./local.properties
+./app/build/*
+./app/app.iml
+./app/src/main/jniLibs/*
+./app/src/main/libs/*
+./app/src/main/obj/*
